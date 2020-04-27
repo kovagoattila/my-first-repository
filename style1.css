@@ -1,0 +1,14 @@
+li:hover {
+    color: white;
+    text-decoration: none;
+    background-color: cadetblue;
+  }
+
+  li {
+        border: 2px solid blue;
+                border-top: none;
+        width: 400px;
+        text-align: center;
+        list-style-type: none;
+        
+  }
